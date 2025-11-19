@@ -1,6 +1,6 @@
 <h1 align="center">Приветствую, меня зовут Настя!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий специалист в области кибезбезопасности с фокусом на практическое применение знаний</h3>
+<h3 align="center">Начинающий специалист в области кибербезопасности с фокусом на практическое применение знаний</h3>
 
 <div align="center">
   
